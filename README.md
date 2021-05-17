@@ -1,10 +1,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/API-REGION-HURUF-HIJAIYAH)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Api-Region-Huruf-Hijaiyah)
 ![VBA](https://img.shields.io/badge/visual-basic6-blue.svg?&style=flat&logo=VB6&logoColor=%23F7DF1E)
 ![API](https://img.shields.io/badge/api-white.svg?&style=flat&logo=codeigniter)
 
-# API-REGION-HURUF-HIJAIYAH
+# Api-Region-Huruf-Hijaiyah
 Tugas Pemrograman API - Region Huruf Hijaiyah VB6
 
 <br>
