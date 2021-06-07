@@ -1,8 +1,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Api-Region-Huruf-Hijaiyah)
+![GitHub Star](https://img.shields.io/github/stars/devancakra/Api-Region-Huruf-Hijaiyah.svg?color=FF69B4)
+![GitHub Contributor](https://img.shields.io/github/contributors/devancakra/Api-Region-Huruf-Hijaiyah.svg?color=FF8C00)
+![GitHub Forks](https://img.shields.io/github/forks/devancakra/Api-Region-Huruf-Hijaiyah.svg?color=00CED1)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Api-Region-Huruf-Hijaiyah)
-![VBA](https://img.shields.io/badge/visual-basic6-blue.svg?&style=flat&logo=VB6&logoColor=%23F7DF1E)
-![API](https://img.shields.io/badge/api-white.svg?&style=flat&logo=codeigniter)
+![VBA](https://img.shields.io/badge/Uses-Visual%20Basic%206-blue.svg?&style=flat&logo=microsoftvisualbasic)
 
 # Api-Region-Huruf-Hijaiyah
 Tugas Pemrograman API - Region Huruf Hijaiyah VB6
