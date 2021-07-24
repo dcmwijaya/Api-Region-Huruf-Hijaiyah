@@ -1,6 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Api-Region-Huruf-Hijaiyah)
-[![Doi](https://img.shields.io/badge/Doi-In%20Progress-blue.svg?logo=google-scholar&color=98FB98)](https://github.com/devancakra/Api-Region-Huruf-Hijaiyah)
+[![Doi](https://img.shields.io/badge/Doi-In%20Progress-blue.svg?logo=google-scholar&color=98FB98)](https://njca.co.id/main/index.php/njca/article/view/191)
 ![GitHub Star](https://img.shields.io/github/stars/devancakra/Api-Region-Huruf-Hijaiyah.svg?color=FF69B4)
 ![GitHub Contributor](https://img.shields.io/github/contributors/devancakra/Api-Region-Huruf-Hijaiyah.svg?color=FF8C00)
 ![GitHub Forks](https://img.shields.io/github/forks/devancakra/Api-Region-Huruf-Hijaiyah.svg?color=00CED1)
