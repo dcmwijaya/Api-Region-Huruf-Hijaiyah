@@ -27,7 +27,7 @@ By using the Lib "gdi32" API in Visual Basic 6, you can manipulate various objec
 | 8 | CreatePolygonRgn | Function to form a new polygon-shaped object. |
 | 9 | CreateEllipticRgnIndirect | Serves to create the elliptical area of the RECT structure. |
 | 10 | CreateEllipticRgn | Function to form a new elliptical or round object. |
-| 11 | CombineRgn | Serves to join the intersecting parts of two different areas.<br><br>&emsp;&emsp;a. The number 2 in the Combine function is a fill object<br>&emsp;&emsp;which means it fills the object in a certain desired field.<br><br>&emsp;&emsp;b. The number 4 in the Combine function is remove object,<br>&emsp;&emsp;which means to remove the object in a certain desired<br>&emsp;&emsp;field. |
+| 11 | CombineRgn | Serves to join the intersecting parts of two different areas.<br><br><li>&emsp;The number 2 in the Combine function is a fill object<br>&emsp;&emsp;&nbsp;&nbsp;which means it fills the object in a certain desired field.</li><br><li>&emsp;The number 4 in the Combine function is remove object,<br>&emsp;&emsp;&nbsp;&nbsp;which means to remove the object in a certain desired<br>&emsp;&emsp;&nbsp;&nbsp;field.</li> |
 | 12 | SetWindowRgn (handle, variabel, True) | The handle of the form or other control that will be changed or invincible form for the form is Form.hwnd. |
 | 13 | Send Message | Function to display the output results to windows. |
 | 14 | ReleaseCapture | Serves to cause the mouse button process to be responsive. |
