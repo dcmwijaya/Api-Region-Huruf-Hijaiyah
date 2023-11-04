@@ -8,12 +8,12 @@
 ![VBA](https://img.shields.io/badge/Uses-Visual%20Basic%206-blue.svg?&style=flat&logo=microsoftvisualbasic)
 
 # Api-Region-Huruf-Hijaiyah
-Tugas Pemrograman API - Region Visual Basic 6 untuk membentuk huruf Hijaiyah
+Tugas Pemrograman API - Region Visual Basic 6 untuk membentuk huruf ``` Hijaiyah ```
 
 <br>
 
 ## Penjelasan
-Dengan menggunakan API Lib "gdi32" yang ada pada Visual Basic 6, Anda dapat memanipulasi berbagai macam objek sesuai dengan yang diinginkan. Fungsi lib "gdi32" dapat diaplikasikan pada form, adapun fungsi yang digunakan pada umumnya yaitu :<br><br>
+Dengan menggunakan API Lib ``` gdi32 ``` yang ada pada Visual Basic 6, Anda dapat memanipulasi berbagai macam objek sesuai dengan yang diinginkan. Fungsi lib ``` gdi32 ``` dapat diaplikasikan pada form, adapun fungsi yang digunakan pada umumnya yaitu :<br><br>
 
 | Nomor | Nama Fungsi | Deskripsi |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ https://bit.ly/Installer_VB6
 ## Menjalankan
 1.Unduh repositori ini.<br>
 2.Ekstrak file.<br>
-3.Klik "REGION_HIJAIYAH_KELOMPOK1_PEMAPI_2020.exe" untuk menjalankan program aplikasi.<br>
+3.Klik ``` REGION_HIJAIYAH_KELOMPOK1_PEMAPI_2020.exe ``` untuk menjalankan program aplikasi.<br>
 4.Selamat menikmati [Selesai].
 
 <br>
