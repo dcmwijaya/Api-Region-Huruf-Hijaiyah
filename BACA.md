@@ -49,10 +49,10 @@ https://bit.ly/Installer_VB6
 <br>
 
 ## Menjalankan
-1.Unduh repositori ini.<br>
-2.Ekstrak file.<br>
-3.Klik ``` REGION_HIJAIYAH_KELOMPOK1_PEMAPI_2020.exe ``` untuk menjalankan program aplikasi.<br>
-4.Selamat menikmati [Selesai].
+1. Unduh repositori ini.<br>
+2. Ekstrak file.<br>
+3. Klik ``` REGION_HIJAIYAH_KELOMPOK1_PEMAPI_2020.exe ``` untuk menjalankan program aplikasi.<br>
+4. Selamat menikmati [Selesai].
 
 <br>
 
