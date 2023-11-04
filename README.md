@@ -50,10 +50,10 @@ https://bit.ly/Installer_VB6
 <br>
 
 ## Running
-1.Download this repository.<br>
-2.Extract the file.<br>
-3.Click ``` REGION_HIJAIYAH_KELOMPOK1_PEMAPI_2020.exe ``` to run the application program.<br>
-4.Please enjoy [Done].
+1. Download this repository.<br>
+2. Extract the file.<br>
+3. Click ``` REGION_HIJAIYAH_KELOMPOK1_PEMAPI_2020.exe ``` to run the application program.<br>
+4. Please enjoy [Done].
 
 <br>
 
