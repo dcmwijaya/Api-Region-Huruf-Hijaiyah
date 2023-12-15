@@ -39,6 +39,7 @@ By using the Lib ``` gdi32 ``` API in Visual Basic 6, you can manipulate various
 | Part | Description |
 | --- | --- |
 | Tools | Visual Basic 6.0 Enterprise |
+| Operation System | Windows 10 |
 
 <br>
 
