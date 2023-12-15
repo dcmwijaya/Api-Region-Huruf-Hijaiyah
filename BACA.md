@@ -38,6 +38,7 @@ Dengan menggunakan API Lib ``` gdi32 ``` yang ada pada Visual Basic 6, Anda dapa
 | Bagian | Deskripsi |
 | --- | --- |
 | Peralatan | Visual Basic 6.0 Enterprise |
+| Sistem Operasi | Windows 10 |
 
 <br>
 
