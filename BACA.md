@@ -44,7 +44,7 @@ Dengan menggunakan API Lib ``` gdi32 ``` yang ada pada Visual Basic 6, Anda dapa
 
 ## Unduh & Instal Visual Basic 6.0 Enterprise
 ```bash
-https://bit.ly/Installer_VB6
+https://bit.ly/Installer_MS_VB6
 ```
 
 <br>
