@@ -1,11 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Api-Region-Huruf-Hijaiyah)
-[![Doi](https://img.shields.io/badge/Doi-http://dx.doi.org/10.36564/njca.v5i2.191-blue.svg?logo=google-scholar&color=98FB98)](https://njca.co.id/main/index.php/njca/article/view/191)
-![GitHub Star](https://img.shields.io/github/stars/devancakra/Api-Region-Huruf-Hijaiyah.svg?color=FF69B4)
-![GitHub Contributor](https://img.shields.io/github/contributors/devancakra/Api-Region-Huruf-Hijaiyah.svg?color=FF8C00)
-![GitHub Forks](https://img.shields.io/github/forks/devancakra/Api-Region-Huruf-Hijaiyah.svg?color=00CED1)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Api-Region-Huruf-Hijaiyah)
-![VBA](https://img.shields.io/badge/Uses-Visual%20Basic%206-blue.svg?&style=flat&logo=microsoftvisualbasic)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Api-Region-Huruf-Hijaiyah)
+[![Doi](https://img.shields.io/badge/Doi-http://dx.doi.org/10.36564/njca.v5i2.191-blue.svg?logo=google-scholar&color=%23F7DF1E)](https://njca.co.id/main/index.php/njca/article/view/191)
+![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Api-Region-Huruf-Hijaiyah
 Tugas Pemrograman API - Region Visual Basic 6 untuk membentuk huruf ``` Hijaiyah ```
