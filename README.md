@@ -5,7 +5,7 @@
 ![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Api-Region-Huruf-Hijaiyah
-<strong>API Programming Tasks</strong><br> 
+<strong>1st Final Project in API Programming</strong><br><br> 
 Region Visual Basic 6 to form ``` Hijaiyah ``` letters
 
 <br>
