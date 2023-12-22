@@ -5,7 +5,8 @@
 ![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Api-Region-Huruf-Hijaiyah
-Tugas Pemrograman API - Region Visual Basic 6 untuk membentuk huruf ``` Hijaiyah ```
+<strong>Tugas Akhir ke-1 dalam Pemrograman API</strong><br><br>
+Region Visual Basic 6 untuk membentuk huruf ``` Hijaiyah ```
 
 <br>
 
