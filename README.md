@@ -32,7 +32,7 @@ By using the Lib ``` gdi32 ``` API in Visual Basic 6, you can manipulate various
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Tools | Visual Basic 6.0 Enterprise |
