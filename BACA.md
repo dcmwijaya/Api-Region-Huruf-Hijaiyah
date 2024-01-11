@@ -32,7 +32,7 @@ Dengan menggunakan API Lib ``` gdi32 ``` yang ada pada Visual Basic 6, Anda dapa
 
 <br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Peralatan | Visual Basic 6.0 Enterprise |
