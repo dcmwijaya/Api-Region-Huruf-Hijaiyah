@@ -11,7 +11,7 @@ Region Visual Basic 6 untuk membentuk huruf ``` Hijaiyah ```
 <br>
 
 ## Penjelasan
-Dengan menggunakan API Lib ``` gdi32 ``` yang ada pada Visual Basic 6, Anda dapat memanipulasi berbagai macam objek sesuai dengan yang diinginkan. Fungsi lib ``` gdi32 ``` dapat diaplikasikan pada form, adapun fungsi yang digunakan pada umumnya yaitu :<br><br>
+Dengan menggunakan API Lib ``` gdi32 ``` yang ada pada Visual Basic 6, anda dapat memanipulasi berbagai macam objek sesuai dengan yang diinginkan. Fungsi lib ``` gdi32 ``` dapat diaplikasikan pada form, adapun fungsi yang digunakan pada umumnya yaitu :<br><br>
 
 | Nomor | Nama Fungsi | Deskripsi |
 | --- | --- | --- |
