@@ -41,7 +41,6 @@ By using the Lib ``` gdi32 ``` API in Visual Basic 6, you can manipulate various
 <br>
 
 ## Download & Install Visual Basic 6.0 Enterprise
-
 <table><tr><td width="840">
   
 ```
