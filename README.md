@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Api-Region-Huruf-Hijaiyah)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Api-Region-Huruf-Hijaiyah)
 [![Doi](https://img.shields.io/badge/Doi-http://dx.doi.org/10.36564/njca.v5i2.191-blue.svg?logo=google-scholar&color=%23F7DF1E)](https://njca.co.id/main/index.php/njca/article/view/191)
-![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
+![VB6](https://img.shields.io/badge/6%20programming-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Api-Region-Huruf-Hijaiyah
 <strong>1st Final Project in API Programming</strong><br><br> 
@@ -84,7 +84,7 @@ https://bit.ly/Installer_MS_VB6
 <br>
 
 ## Appreciation
-If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
+If this work is useful to you, then support this work as a form of appreciation to the author by clicking the ``` ⭐Star ``` button at the top of the repository.
 
 <br>
 
