@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Api-Region-Huruf-Hijaiyah)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Api-Region-Huruf-Hijaiyah)
 [![Doi](https://img.shields.io/badge/Doi-http://dx.doi.org/10.36564/njca.v5i2.191-blue.svg?logo=google-scholar&color=%23F7DF1E)](https://njca.co.id/main/index.php/njca/article/view/191)
-![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
+![VB6](https://img.shields.io/badge/6%20programming-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Api-Region-Huruf-Hijaiyah
 <strong>Tugas Akhir ke-1 dalam Pemrograman API</strong><br><br>
@@ -84,7 +84,7 @@ https://bit.ly/Installer_MS_VB6
 <br>
 
 ## Apresiasi
-Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
+Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan mengklik tombol ``` ⭐Bintang ``` di bagian atas repositori.
 
 <br>
 
