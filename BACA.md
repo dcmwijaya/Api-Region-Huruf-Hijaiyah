@@ -1,8 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Api-Region-Huruf-Hijaiyah)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Api-Region-Huruf-Hijaiyah)
-[![Doi](https://img.shields.io/badge/Doi-http://dx.doi.org/10.36564/njca.v5i2.191-blue.svg?logo=google-scholar&color=%23F7DF1E)](https://njca.co.id/main/index.php/njca/article/view/191)
-![VB6](https://img.shields.io/badge/6%20programming-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Api-Region-Huruf-Hijaiyah?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Multi-%2DPlatform-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Api-Region-Huruf-Hijaiyah
 <strong>Tugas Akhir ke-1 dalam Pemrograman API</strong><br><br>
@@ -65,9 +65,9 @@ https://bit.ly/VisualBasic6_Installer
 <th colspan="3">Implementasi</th>
 </tr>
 <tr>
-<td width="280"><img src="https://user-images.githubusercontent.com/54527592/114759521-7771ec80-9d88-11eb-9054-6b97f695bb2c.jpg" alt="implementation-1"></td>
-<td width="280"><img src="https://user-images.githubusercontent.com/54527592/114759462-632def80-9d88-11eb-92ea-f6f17c866bb1.jpg" alt="implementation-2"></td>
-<td width="280"><img src="https://user-images.githubusercontent.com/54527592/114759556-8193eb00-9d88-11eb-8563-19baa69448ee.jpg" alt="implementation-3"></td>
+<td width="280"><img src="Documentation/Implementation-1.jpg" alt="implementation-1"></td>
+<td width="280"><img src="Documentation/Implementation-2.jpg" alt="implementation-2"></td>
+<td width="280"><img src="Documentation/Implementation-3.jpg" alt="implementation-3"></td>
 </tr>
 </table>
 
@@ -89,7 +89,7 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br>
 
 ## LISENSI 
-LISENSI MIT - Hak Cipta © 2020 - Devan Cakra Mudra Wijaya
+LISENSI MIT - Hak Cipta © 2020 - Devan C. M. Wijaya
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
